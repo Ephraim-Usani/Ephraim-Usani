@@ -15,7 +15,7 @@ I build AI tools that actually work in African hospitals — running on ordinary
 | [CardioXNet](https://github.com/Ephraim-Usani/CardioXNet-CTR-Estimation) | Automatically measures heart-to-chest ratio on X-rays to detect cardiac enlargement | [▶ Watch Demo](https://drive.google.com/file/d/1EBJdmsjtfyDvHqxXjMrhcvQx5_1X4Hj7/view?usp=drive_link) |
 | [PoseRadAI](https://github.com/Ephraim-Usani/PoseRadAI-Positioning-Assistant) | Real-time patient positioning assistant for radiographers — detects tilt, rotation, and asymmetry before X-ray is taken | [▶ Watch Demo](https://drive.google.com/file/d/1wM-sg9_asprKQrKb5Oos74z1a1EOTKvs/view?usp=drive_link) |
 | [FetalAI](https://github.com/Ephraim-Usani/FetalAI-Obstetric-Ultrasound) | Auto-detects correct fetal plane, freezes image, and places biometric measurements — BPD, OFD, AC, FL | [▶ Watch Demo](https://drive.google.com/file/d/1WRIEi4XRJ5RyelRQXkY52ocSb7L69OZ5/view?usp=drive_link) |
-| [CephaloAI](https://github.com/Ephraim-Usani/CephaloAI-Landmark-Detection) | Automatically marks 23 cephalometric landmarks on dental X-rays for orthodontic planning | [▶ Watch Demo](https://drive.google.com/file/d/1ij-rhXEF075A_RL2C0-MNtjR1NQNlsKP/view?usp=drive_link) |
+| [CephaloAI](https://github.com/Ephraim-Usani/CephaloAI-Landmark-Detection) | Automatically marks 27 cephalometric landmarks on dental X-rays for orthodontic planning | [▶ Watch Demo](https://drive.google.com/file/d/1ij-rhXEF075A_RL2C0-MNtjR1NQNlsKP/view?usp=drive_link) |
 | [FaceEMR](https://github.com/Ephraim-Usani/FaceEMR-Patient-Verification) | Facial recognition integrated into EMR to eliminate patient ID errors in high-volume hospitals | [▶ Watch Demo](https://drive.google.com/file/d/1TyRoM0jwDjZVKknvTwyO7iKNGDKREJut/view?usp=drive_link) |
 
 ---
